@@ -59,17 +59,3 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-
-textarea {
-  background: #d3d3d3;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
-}
-
-p {
-  padding-top: 28px;
-  font-size: 19px;
-}
