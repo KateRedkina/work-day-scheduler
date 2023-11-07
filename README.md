@@ -21,7 +21,7 @@ Here are some guidelines for installing the project on your local machine:
 2. Open the HTML file in your browser.
 
 ## Link URL to deployed app on GitHub
-https://github.com/KateRedkina/work-day-scheduler
+https://kateredkina.github.io/work-day-scheduler/
 
 ## Link URL to GitHub Repository
-https://kateredkina.github.io/work-day-scheduler/
+https://github.com/KateRedkina/work-day-scheduler
